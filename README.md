@@ -1,31 +1,23 @@
-
 # 3D-RobotDesign
 
-A creative 3D concept of a four-legged robot developed as part of the Smart Methods Summer Internship.
+This is a simple 3D design of a four-legged robot dog that I made during my summer internship at Smart Methods.
 
-## Project Description
-This project focuses on designing an innovative quadruped robot with a lightweight mechanical structure. The goal is to understand the core principles of mechanical design, stability, and robotic locomotion while ensuring the model is highly adaptable for future hardware integration.
+## About the Project
+The main goal of this project was to design a basic chassis for a quadruped robot using Tinkercad. I wanted to learn how to structure the body and place the legs correctly so the robot stays balanced and is ready for motors and electronics later on.
 
-## Features
-* **Lightweight Body:** Rectangular chassis optimized for weight distribution.
-* **Symmetrical Locomotion:** Four symmetrical legs featuring a two-joint mechanism per leg.
-* **Creative Aesthetics:** Styled with a sleek, futuristic head visor and dual camera-like eyes using a modern, neutral color palette (White, Metallic Gray, Matte Black).
-* **Stable Mechanical Structure:** Balanced center of mass suitable for basic stability testing.
+## Design Features
+* **Lightweight Body:** The main chassis is rectangular and kept simple so it isn't too heavy for movement.
+* **The Legs:** It has 4 identical legs, and each leg has two joints to make future movement smoother.
+* **Look & Colors:** I went with neutral colors (white, gray, and black) to give it a clean, real-robot look. I also added a head with eye sockets.
+* **Stability:** The overall structure is steady and sits firmly on the ground without tipping over.
 
-## Design Goals
-* Construct a mechanically stable and balanced quadruped structure.
-* Maintain a minimalist and modular design for quick prototyping.
-* Integrate aesthetic enhancements that serve a functional purpose (e.g., eye sockets as sensor housings).
-* Prepare the model's internal chassis for future microcontroller and servo integration.
+## Software Used
+* **Tinkercad:** I used it for the entire 3D modeling process, assembling all the parts, and exporting the final STL file for printing.
 
-## Software
-* **Tinkercad:** Used for initial conceptualization, 3D modeling, and rough layout blocking of the robot's structure.
-
-## Future Improvements
-* Refine the leg mechanisms to accommodate standard micro servo motors (e.g., SG90 or MG90S).
-* Integrate physical sensors (Ultrasonic/Infrared) inside the designed head sockets.
-* Develop a walking gait algorithm to enhance movement.
-* Optimize the overall shell thickness to reduce 3D printing time and material waste.
+## Future Plans
+* Adjust the leg joints so they fit standard micro servo motors (like the SG90).
+* Put an ultrasonic distance sensor inside the eye sockets on the head.
+* Code the walking gait and get the robot moving.
 
 ## Project Status
-* **Concept & 3D Modeling Phase** (STL files successfully compiled and rendered).
+* **3D Modeling Done:** The design is finished and the STL file is ready to print.
