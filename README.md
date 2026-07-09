@@ -1,4 +1,4 @@
-# 3D-RobotDesign-v1
+# 3D-RobotDesign
 
 A simple 3D concept of a four-legged robot created as part of the Smart Methods Summer Internship.
 
